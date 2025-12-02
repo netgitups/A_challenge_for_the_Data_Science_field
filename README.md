@@ -103,9 +103,9 @@ plt.tight_layout() # Автоматически подгоняет параме�
 plt.show()
 df.to_csv('bot_interactions.csv', index=False)
 ```
-![1.Задание](https://github.com/netgitups/test/blob/main/img/1.png)
-![2_1.Задание](https://github.com/netgitups/test/blob/main/img/2_1.png)
-![2_2.Задание](https://github.com/netgitups/test/blob/main/img/2_2.png)
+![1.Задание](https://github.com/netgitups/A_challenge_for_the_Data_Science_field/blob/main/img/1.png)
+![2_1.Задание](https://github.com/netgitups/A_challenge_for_the_Data_Science_field/blob/main/img/2_1.png)
+![2_2.Задание](https://github.com/netgitups/A_challenge_for_the_Data_Science_field/blob/main/img/2_2.png)
 
 # Задание 2. Работа с промтами (YandexGPT --> Алиса AI)
 
